@@ -1,6 +1,5 @@
 +++
-draft = true
-title = ""
+title = "ทดสอบ"
 
 +++
 ﻿---
