@@ -1,6 +1,6 @@
 baseurl = "https://upbeat-kilby-0133b6.netlify.com/"
 title = "Chanon R.'s blog"
-languageCode = "en-us"
+languageCode = "th-th"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "chanonr" # Enable comments by entering your Disqus shortname
