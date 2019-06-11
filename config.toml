@@ -2,10 +2,10 @@
 #
 baseurl = "https://upbeat-kilby-0133b6.netlify.com/"
 languageCode = "en-us"
-title = "Hugo Bootstrap v4 Blog"
+title = "KTBlog"
 theme = "hugo-theme-bootstrap4-blog"
 # number of posts to show on home/category/tag pages (Default: 10)
-paginate = 5
+paginate = 10
 # optionally override the site's footer with custom copyright text
 # copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
 #googleAnalytics = "UA-123-45"
@@ -32,7 +32,7 @@ paginate = 5
 #
 [params]
   # Site author
-  author = "Your Name"
+  author = "Chanon R."
 
   # Description/subtitle for homepage (can be Markdown)
   description = "A simple Hugo theme based on the Bootstrap v4 blog example."
