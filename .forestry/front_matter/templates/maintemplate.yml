@@ -1,4 +1,32 @@
 ---
 label: maintemplate
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: 'title:'
+- name: date_
+  type: datetime
+  label: 'date:'
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: description_
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: 'description:'
+- name: thumbnail__
+  type: file
+  config:
+    maxSize: 250
+  label: 'thumbnail: '
