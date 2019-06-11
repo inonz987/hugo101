@@ -3,7 +3,7 @@
 baseurl = "https://upbeat-kilby-0133b6.netlify.com/"
 languageCode = "en-us"
 title = "KTBlog"
-theme = "hugo-theme-bootstrap4-blog"
+theme = "hugo-dgraph-theme"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 10
 # optionally override the site's footer with custom copyright text
