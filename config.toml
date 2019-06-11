@@ -1,4 +1,4 @@
 baseURL = "https://upbeat-kilby-0133b6.netlify.com//"
 languageCode = "en-us"
 title = "Hugo Test"
-theme = "hugo-dgraph-theme"
+theme = "hugo-base16-theme"
