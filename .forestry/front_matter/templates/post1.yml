@@ -1,4 +1,32 @@
 ---
 label: post1
 hide_body: false
-fields: []
+fields:
+- name: post_date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Post Date
+- name: post_title
+  type: text
+  config:
+    required: false
+  label: Post Title
+- name: thunail
+  type: file
+  config:
+    maxSize: 250
+  label: thunail
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: text
