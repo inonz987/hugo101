@@ -7,7 +7,7 @@ thumbnail: "img/placeholder.jpg"
 comments: false # Enable/disable Disqus comments. Default value: true
 authorbox: true # Enable authorbox for specific post
 #toc: true # Optional, enable Table of Contents for specific post
-mathjax: true # Optional, enable MathJax for specific post
+mathjax: false # Optional, enable MathJax for specific post
 categories:
   - "Category 1"
   - "Category 2"
