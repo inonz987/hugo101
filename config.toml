@@ -15,13 +15,13 @@ paginate = 10
   post = "/:year/:month/:title/"
   page = "/:slug/"
 
-[[menu.sidebar]]
-  name = "Link 1"
-  url = "https://example.com"
+#[[menu.sidebar]]
+  #name = "Link 1"
+  #url = "https://example.com"
 
-[[menu.sidebar]]
-  name = "Link 2"
-  url = "https://example.org"
+#[[menu.sidebar]]
+  #name = "Link 2"
+  #url = "https://example.org"
 
 #[[menu.navbar]]
 #  name = "Link 1"
@@ -35,10 +35,10 @@ paginate = 10
   author = "Chanon R."
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "A simple Hugo theme based on the Bootstrap v4 blog example."
+  description = "ฺ[v]บล๊อค"
 
   # Show header (default: true)
-  #header_visible = true
+  header_visible = true
 
   # Format dates with Go's time formatting
   date_format = "Mon Jan 02, 2006"
@@ -69,18 +69,18 @@ paginate = 10
   # Useful if you're using a CDN or other host where you can't control cache headers
   #disable_sri = false
 
-  [params.sidebar]
+  # [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
-    about = "A simple Hugo theme based on the [Bootstrap v4 blog example](http://v4-alpha.getbootstrap.com/examples/blog/)."
+    # about = "A simple Hugo theme based on the [Bootstrap v4 blog example](http://v4-alpha.getbootstrap.com/examples/blog/)."
 
     # How many posts to show on the sidebar (Default: 5)
     #num_recent_posts = 2
 
-  [params.social]
+  # [params.social]
     # Optional, used for attribution in Twitter cards (ideally not a person
     # for example: nytimes, flickr, NatGeo, etc).
     # See: https://dev.twitter.com/cards/types/summary-large-image
-    twitter = "username"
+    # twitter = "username"
 
 # Default content language for Hugo 0.17's multilingual support (default is "en")
 # See: https://github.com/spf13/hugo/blob/master/docs/content/content/multilingual.md
