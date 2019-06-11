@@ -1,7 +1,7 @@
 ---
 title: ตัวอย่าง  title
 date: 2019-06-10T17:00:00+00:00
-thumbnail: ''
+thumbnail: img/placeholder.jpg
 comments: false
 authorbox: true
 mathjax: true
