@@ -30,5 +30,12 @@ fields:
     schema:
       format: markdown
   label: text
+- name: block
+  type: blocks
+  label: block
+  template_types: []
+  config:
+    min: 
+    max: 
 pages:
 - content/post/Test1.md
