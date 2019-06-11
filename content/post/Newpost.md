@@ -1,6 +1,6 @@
 ---
 title: ตัวอย่าง  title
-date: 2019-06-10T17:00:00+00:00
+date: 2019-06-11T17:00:00+00:00
 thumbnail: static/img/placeholder.jpg
 comments: false
 authorbox: true
