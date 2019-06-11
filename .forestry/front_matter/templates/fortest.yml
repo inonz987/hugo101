@@ -9,4 +9,5 @@ fields:
   name: date
   label: date
 pages:
+- content/post/ลองโพส.md
 - content/post/foretest.md
