@@ -26,3 +26,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/post/เขียนโพสน์เรื่อง-ashes-of-al-ar-ใน-fb-group.md
