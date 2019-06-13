@@ -1,0 +1,28 @@
+---
+label: usethisone
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: boolean
+  name: comments
+  label: comments
+- type: boolean
+  name: authorbox
+  label: authorbox
+- type: boolean
+  name: mathjax
+  label: mathjax
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
