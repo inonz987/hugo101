@@ -1,12 +1,12 @@
 +++
 authorbox = false
-categories = ["Game"]
+categories = []
 comments = true
 date = "2019-06-12T17:00:00+00:00"
 draft = true
 mathjax = true
-tags = ["WOW"]
-thumbnail = "uploads/Annotation 2019-06-13 110648.png"
+tags = []
+thumbnail = "/placeholder.png"
 title = "เขียนโพสน์เรื่อง Ashes of al'ar ใน FB Group"
 
 +++
