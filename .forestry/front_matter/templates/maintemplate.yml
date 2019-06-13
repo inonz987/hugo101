@@ -30,3 +30,5 @@ fields:
   config:
     maxSize: 250
   label: 'thumbnail: '
+pages:
+- content/test2.md
