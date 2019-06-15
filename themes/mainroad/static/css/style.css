@@ -134,7 +134,7 @@ textarea {
 
 .btn:hover {
 	color: #fff;
-	background: #e22d30;
+	background: #e84855;
 }
 
 /* Animation */
@@ -193,7 +193,7 @@ a {
 }
 
 a:hover {
-	color: #df3b46;
+	color: #e84855;
 }
 
 hr {
@@ -472,7 +472,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .menu__item:hover {
-	background: #e22d30;
+	background: #e84855;
 }
 
 .menu__item:first-child {
@@ -493,7 +493,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .menu__link:hover {
-	color: #fff;
+	color: #e84855;
 }
 
 .js .menu__list {
@@ -575,7 +575,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .meta a:hover {
-	color: #e22d30;
+	color: #e84855;
 }
 
 .meta__item {
@@ -636,7 +636,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .content a:hover,
 .warning a:hover {
-	color: #e22d30;
+	color: #e84855;
 	text-decoration: underline;
 }
 
@@ -710,7 +710,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .tags__item:hover {
-	background: #e22d30;
+	background: #e84855;
 }
 
 .tags__link,
@@ -866,7 +866,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .pagination__item:hover,
 .pagination__item--current {
 	color: #fff;
-	background: #e22d30;
+	background: #e84855;
 }
 
 /* Post Navigation */
@@ -988,7 +988,7 @@ input[type=reset] {
 
 input[type=submit]:hover,
 input[type=reset]:hover {
-	background: #e22d30;
+	background: #e84855;
 }
 
 textarea {
@@ -1096,7 +1096,7 @@ textarea {
 
 .widget-languages__link:hover .widget-languages__link-btn {
 	color: #fff;
-	background: #e22d30;
+	background: #e84855;
 }
 
 .widget-languages__link-btn {
