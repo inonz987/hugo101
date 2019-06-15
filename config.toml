@@ -18,7 +18,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   opengraph = true # Enable OpenGraph if true
   twitter_cards = true # Enable Twitter Cards if true
   readmore = true # Show "Read more" button in list if true
-  authorbox = true # Show authorbox at bottom of pages if true
+  authorbox = false # Show authorbox at bottom of pages if true
   toc = true # Enable Table of Contents
   post_navigation = true # Show post navigation at bottom of pages if true
   post_meta = ["date", "categories", "translations"] # Order of post meta information
@@ -32,7 +32,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.sidebar]
   home = "right" # Configure layout for home page
   list = "left"  # Configure layout for list pages
-  single = false # Configure layout for single pages
+  single = true # Configure layout for single pages
   # Enable widgets in given order
   #widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
   widgets = ["categories", "taglist", "social", "languages"]
