@@ -5,7 +5,7 @@ comments = true
 date = 2020-01-14T07:40:00Z
 mathjax = true
 tags = []
-thumbnail = "/uploads/placeholder.png"
+thumbnail = "/uploads/placeholder2.png"
 title = "--Note to self กันลืมเรื่องของ Blog--"
 
 +++
