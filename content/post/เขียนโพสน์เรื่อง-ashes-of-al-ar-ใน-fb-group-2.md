@@ -2,11 +2,12 @@
 authorbox = false
 categories = []
 comments = true
-date = "2019-06-12T17:00:00+00:00"
+date = 2020-01-14T07:40:00Z
+draft = true
 mathjax = true
 tags = []
 thumbnail = "/uploads/placeholder.png"
-title = "เขียนโพสน์เรื่อง Ashes of al'ar ใน FB Group"
+title = "Note to self กันลืมเรื่องของ Blog"
 
 +++
-![](/uploads/placeholder.png)
+s
