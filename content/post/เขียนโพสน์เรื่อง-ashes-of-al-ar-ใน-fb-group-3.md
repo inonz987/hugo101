@@ -1,17 +1,17 @@
 +++
 authorbox = false
-categories = ["Game"]
+categories = ["Travel"]
 comments = true
-date = 2019-06-12T17:00:00Z
+date = 2020-03-29T17:00:00Z
 draft = true
 mathjax = true
-tags = ["WOW"]
-thumbnail = "uploads/Annotation 2019-06-13 110648.png"
-title = "เขียนโพสน์เรื่อง Ashes of al'ar ใน FB Group"
+tags = ["Sea"]
+thumbnail = "/uploads/Traveling-678x381.jpg"
+title = "Travelling across the country"
 
 +++
-[https://www.facebook.com/groups/world.of.warcraft.thailand/permalink/2253804177989243/](https://www.facebook.com/groups/world.of.warcraft.thailand/permalink/2253804177989243/ "https://www.facebook.com/groups/world.of.warcraft.thailand/permalink/2253804177989243/")
+Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit.
 
-ลงหลายครั้งแต่ก็นับว่าโชคดี
+> This is the free version of MH Magazine WordPress theme. You can purchase the premium version on [**our website**](http://www.mhthemes.com/themes/ "Purchase MH Magazine Premium WordPress theme") which includes awesome features, useful theme options, additional custom widgets and endless possibilities to customize your website. Do you want to see how MH Magazine looks on real websites? [**Check out our showcase**](http://www.mhthemes.com/showcase/ "Websites powered by MH Themes").
 
-![](/uploads/Annotation 2019-06-13 110648.png)
+Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis.
