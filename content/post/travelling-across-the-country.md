@@ -1,12 +1,12 @@
 +++
 authorbox = false
-categories = ["Travel"]
+categories = []
 comments = true
-date = 2020-03-29T17:00:00Z
+date = 2020-03-30T08:19:56Z
 draft = true
 mathjax = true
-tags = ["Sea"]
-thumbnail = "/uploads/Traveling-678x381.jpg"
+tags = ["Food"]
+thumbnail = "/uploads/sushi-678x381.jpg"
 title = "Travelling across the country"
 
 +++
