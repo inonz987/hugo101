@@ -16,3 +16,7 @@ Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming 
 Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis.
 
 [https://www.youtube.com/watch?v=21GgEwyzQd0](https://www.youtube.com/watch?v=21GgEwyzQd0 "Foodwork")
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=21GgEwyzQd0
+" target="_blank"><img src="http://img.youtube.com/vi/Y21GgEwyzQd0/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
