@@ -16,3 +16,5 @@ title = "< Note to self กันลืมเรื่องของ Blog >"
 * ใช้ CMS ผ่านทาง [https://forestry.io/](https://forestry.io/ "https://forestry.io/")
 * ใช้ตัวช่วย [https://embedresponsively.com/](https://embedresponsively.com/ "https://embedresponsively.com/")
 * Design [https://material.io/resources/](https://material.io/resources/ "https://material.io/resources/")
+* Static site framework [https://gohugo.io/](https://gohugo.io/ "https://gohugo.io/")
+* Markdown [https://markdown-it.github.io/](https://markdown-it.github.io/ "https://markdown-it.github.io/")
