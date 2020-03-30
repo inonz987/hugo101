@@ -3,7 +3,6 @@ authorbox = false
 categories = ["Travel"]
 comments = true
 date = 2020-03-29T17:00:00Z
-draft = true
 mathjax = true
 tags = ["Sea"]
 thumbnail = "/uploads/Traveling-678x381.jpg"
