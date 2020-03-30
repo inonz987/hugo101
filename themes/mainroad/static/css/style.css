@@ -132,9 +132,10 @@ textarea {
 	background: #2a2a2a;
 }
 
+/* background: #e22d30; */
 .btn:hover {
 	color: #fff;
-	background: #e22d30;
+	background: #2b5e34;
 }
 
 /* Animation */
