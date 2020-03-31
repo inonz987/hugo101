@@ -27,6 +27,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/post/booking.md
 - content/post/travelling-across-the-country-1.md
 - content/post/travelling-across-the-country.md
 - content/post/เขียนโพสน์เรื่อง-ashes-of-al-ar-ใน-fb-group-1.md
