@@ -3,7 +3,6 @@ authorbox = false
 categories = []
 comments = true
 date = 2020-03-31T08:01:00Z
-draft = true
 mathjax = true
 tags = ["Food"]
 thumbnail = "/uploads/sushi-678x381.jpg"
