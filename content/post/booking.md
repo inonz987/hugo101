@@ -3,7 +3,6 @@ authorbox = false
 categories = []
 comments = true
 date = 2020-03-30T17:00:00Z
-draft = true
 mathjax = false
 tags = []
 thumbnail = "/uploads/Traveling-678x381.jpg"
